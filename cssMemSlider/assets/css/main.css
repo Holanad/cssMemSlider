@@ -146,7 +146,7 @@ input[name="r"]{
         max-width: 100%;
         width: auto;
     }
-    .slide img{
+    .slide img{ 
         height: 270px;
     }
 }
