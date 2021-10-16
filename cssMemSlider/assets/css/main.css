@@ -153,7 +153,7 @@ input[name="r"]{
 
 @media screen and (max-width: 400px) {
     .slide img{
-        height: 175px;
+        height: 175px; 
     }
     .slider{
         height: 300px;
